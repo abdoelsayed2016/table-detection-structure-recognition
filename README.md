@@ -6,7 +6,7 @@ This is the repository for the collection of Table Detection and Structure Recog
 
 If you find this repository helpful, you may consider cite our relevant work:
 
-*  Kasem, Mahmoud, Abdelrahman Abdallah, Alexander Berendeyev, Ebrahem Elkady, Mahmoud Abdalla, Mohamed Mahmoud, Mohamed Hamada, Daniyar Nurseitov and Islam Taj-Eddin. “Deep learning for table detection and structure recognition: A survey.” (2022). [Link](https://arxiv.org/abs/2211.08469)
+*  Kasem, Mahmoud, Abdelrahman Abdallah, Alexander Berendeyev, Ebrahem Elkady, Mahmoud Abdalla, Mohamed Mahmoud, Mohamed Hamada, Daniyar Nurseitov and Islam Taj-Eddin. “Deep learning for table detection and structure recognition: A survey.” (2022). [Link](https://dl.acm.org/doi/10.1145/3657281)
 *  Abdallah, Abdelrahman, Alexander Berendeyev, Islam Nuradin, and Daniyar Nurseitov. "TNCR: Table net detection and classification dataset." Neurocomputing 473 (2022): 79-97.  [Link](https://www.sciencedirect.com/science/article/pii/S0925231221018142)
 
 # Relevant Repositories
